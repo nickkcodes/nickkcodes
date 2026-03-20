@@ -1,6 +1,6 @@
 # Hi, I'm Nick 👋
 
-I'm a self-taught Python developer from Baguio, Philippines 🇵🇭  
+I'm a Grade 10 student and self-taught Python developer from Baguio, Philippines 🇵🇭  
 Currently learning AI, data analysis, and building cool projects.
 
 ---
