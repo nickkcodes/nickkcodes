@@ -35,7 +35,7 @@ Currently learning AI, data analysis, and building cool projects.
 
 ## 📊 GitHub Stats
 
-![nickkcodes GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickkcodes&show_icons=true&theme=dark)
 
 ---
 
